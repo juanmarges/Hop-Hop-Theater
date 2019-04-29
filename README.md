@@ -1,6 +1,9 @@
-# hop_hop_theater
+# Hop-Hop-Theater
 
-A new Flutter project.
+Have a free day to watch movies and want to plan out your movie watching experience?
+###### want to plan out your theater hopping experience?
+Use Hop-Hop-Theater! Your One Movie Watching Scheduler!
+
 
 ## Getting Started
 
